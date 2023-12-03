@@ -4,7 +4,7 @@ Date & Programs:
 
 1. 18/7/2022 1D & 2D array using Pointer
 2. 25/7/2022 Insert and Delete at an Index in the array
-3. 1/8/2022 Structure to store name, roll, marks & sem of student 
+3. 01/8/2022 Structure to store name, roll, marks & sem of student 
 4. 22/8/2022 Implement Stack ADT
 5. 29/8/2022 Menu Driven Program to call Recursive Functions
 6. 12/9/2022 Implement Singly Linked List
